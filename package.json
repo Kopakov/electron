@@ -1,0 +1,13 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "electron ."
+  },
+  "author": "Fedir Kopakov",
+  "devDependencies": {
+    "electron": "^26.1.0"
+  }
+}
