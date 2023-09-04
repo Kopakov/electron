@@ -1,0 +1,8 @@
+feat: Learn Electron
+
+Add _info folder.
+Add electron-forge.
+Install maker packages for electron-forge make.
+Add forge-publisher package.
+
+Notes: Publishing doesn't work
